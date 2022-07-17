@@ -5,4 +5,6 @@ A simple game example to learn basic C concepts. Made without use of pointers or
 
 Can be built simply in Windows:
 
+```
 g++ main.c terminal.c
+```
