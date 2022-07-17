@@ -1,5 +1,5 @@
 # Snake
-Simple Snake game in C
+Simple Snake console game in C using windows conio library
 
 A simple game example to learn basic C concepts. Made without use of pointers or structures.
 
